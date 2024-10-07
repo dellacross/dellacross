@@ -18,12 +18,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="react-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" alt="nodejs-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" alt="js-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" alt="html5-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="css3-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" alt="c-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
   <img align="center" height="30" width="40" alt="cpp-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-    <img align="center" height="30" width="40" alt="ptyhon-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" alt="ptyhon-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </div>
 
 ###
