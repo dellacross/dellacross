@@ -5,7 +5,7 @@
 
 <div>
   <strong>ENG</strong>
-  <span>Hello, I'm Victor Della! I'm an undergraduate student in the 9th semester of Information Systems at the Federal University of Minas Gerais (UFMG).</span>
+  <span>Hello, I'm Victor Della! I'm an undergraduate student in the 9th semester of Computer Science at the Federal University of Minas Gerais (UFMG).</span>
 </div>
 
 <hr>
