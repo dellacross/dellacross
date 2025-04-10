@@ -1,11 +1,11 @@
 <div>
   <strong>BR</strong>
-  <span>Olá, sou o Victor Della! Sou graduando do 9º período do curso de Sistemas de Informação pela Universidade Federal de Minas Gerais (UFMG)</span>
+  <span>Olá, sou o Victor Della! Sou desenvolvedor web full stack, bacharel em Sistemas de Informação pela Universidade Federal de Minas Gerais (UFMG)</span>
 </div>
 
 <div>
   <strong>ENG</strong>
-  <span>Hello, I'm Victor Della! I'm an undergraduate student in the 9th semester of Computer Science at the Federal University of Minas Gerais (UFMG).</span>
+  <span>Hello, I'm Victor Della! I'm full stack web developer, bachelor of Computer Science at the Federal University of Minas Gerais (UFMG) - Brazil.</span>
 </div>
 
 <hr>
