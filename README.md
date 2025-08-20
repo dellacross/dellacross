@@ -5,7 +5,7 @@
 
 <div>
   <strong>ENG</strong>
-  <span>Hello, I'm Victor Della! I'm full stack web developer, bachelor of Computer Science at the Federal University of Minas Gerais (UFMG) - Brazil.</span>
+  <span>Hello, I'm Victor Della! I'm full stack web developer, bachelor of Information Systems at the Federal University of Minas Gerais (UFMG) - Brazil.</span>
 </div>
 
 <hr>
@@ -19,7 +19,10 @@
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="react-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
   <img align="center" height="30" width="40" alt="nodejs-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
-  <img align="center" height="30" width="40" alt="js-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" alt="nodejs-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" />
+  <img align="center" height="30" width="40" alt="nodejs-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" alt="js-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+  <img align="center" height="30" width="40" alt="ts-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" alt="html5-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" alt="css3-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" alt="c-dc" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
